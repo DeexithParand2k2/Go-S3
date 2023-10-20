@@ -1,7 +1,8 @@
 package main
 
 import (
-	"GO-S3/server"
+	"fmt"
+	"Go-S3/internal/server"
 )
 
 func main(){
